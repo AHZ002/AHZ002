@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep learning**
 
-- 💬 Ask me about **AI , ML , DL , Transformer based learning**
+- 💬 Ask me about **AI , ML , DL **
 
 - 📫 How to reach me **abdulhadizeeshan79@gmail.com**
 
